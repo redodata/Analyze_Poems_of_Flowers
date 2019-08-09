@@ -12,7 +12,7 @@
 + 2）用词云的形式展示出写花的词
 + 3）统计出朝代和该朝代写花的诗数量
 ## 具体实现
-![Image text](https://github.com/redodata/Analyze_Poems_of_Flowers/blob/master/images/design.png)
+![avator](https://github.com/redodata/Analyze_Poems_of_Flowers/blob/master/images/design.png)
 ## 结果展示
 ![](images/res1.png)
 ![](images/res2.png)
